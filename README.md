@@ -37,3 +37,7 @@ npm install
 
 # Start the server
 node index.js
+
+# .env
+PORT=8000
+MONGO_URI=your_mongodb_connection_string
